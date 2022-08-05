@@ -1,4 +1,4 @@
-pagma solidity ^0.8.0;
+pragma solidity ^0.8.0;
 
 contract Counter {   // This contract will store a count on the blockchain, and a user will change that count by 1
     uint count; // 1, 2, 3... etc.  This is a state variable uint = unsigned interger, an interger without a sign... no minus signs for example
